@@ -248,3 +248,6 @@ functionPokemonInfo({ name = "pikachu" }) {
 }
 
 ReactDOM.render(<PokemonInfo />, document.getElementById("app"));
+
+
+Comentario sobre una forma de afrontar el reto: https://platzi.com/comentario/727930/
