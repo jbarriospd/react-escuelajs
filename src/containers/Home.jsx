@@ -7,7 +7,7 @@ import Categories from '../componentes/Categories';
 import Carousel from '../componentes/Carousel';
 import CarouselItem from '../componentes/CarouselItem';
 
-const Home = ({ myList, trends, originals }) => {
+const Home = ({ myList:[], trends:[], originals:[] }) => {
 
   // initialState.mylist.length > 0 ? <h1>Loading...</h1> : 
   return (
