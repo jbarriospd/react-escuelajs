@@ -251,3 +251,16 @@ ReactDOM.render(<PokemonInfo />, document.getElementById("app"));
 
 
 Comentario sobre una forma de afrontar el reto: https://platzi.com/comentario/727930/
+
+
+### REACT-ROUTER
+
+Así como lo usamos en la clase. Aunque puedes configurarlo de muchas formas:
+
+👉 https://webpack.js.org/configuration/dev-server/#devserverhistoryapifallback
+👉 https://github.com/webpack/webpack-dev-server/issues/1457
+
+Ejemplo de 404: https://freefrontend.com/html-css-404-page-templates/ 
+https://github.com/gndx/G404Error
+
+realizar multiples layouts: https://platzi.com/comentario/722150/
