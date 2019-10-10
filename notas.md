@@ -264,3 +264,11 @@ Ejemplo de 404: https://freefrontend.com/html-css-404-page-templates/
 https://github.com/gndx/G404Error
 
 realizar multiples layouts: https://platzi.com/comentario/722150/
+
+
+## Music Player: 
+https://codepen.io/ohansemmanuel/pen/QgxEqz
+https://codepen.io/assimilate/pen/aVKpYp/
+https://codepen.io/CodeFrogShow/pen/LLgBoE
+
+¡CSS GRID , excelente articulo!; https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
