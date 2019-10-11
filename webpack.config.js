@@ -6,7 +6,8 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js'
+    filename: 'bundle.js',
+    publicPath: '/',
   },
   resolve: {
     extensions: ['.js', '.jsx']
@@ -17,7 +18,7 @@ module.exports = {
         test: /\.(js|jsx)$/,
         exclude: /node_modules/,
         use: {
-          loader: 'babel-loader'
+          loader: "babel-loader"
         }
       },
       {
@@ -32,7 +33,7 @@ module.exports = {
         test: /\.(s*)css$/,
         use: [
           {
-            loader: MiniCssExtractPlugin.loader
+            loader: MiniCssExtractPlugin.loader,
           },
           'css-loader',
           'sass-loader'
@@ -42,7 +43,7 @@ module.exports = {
         test: /\.(png|gif|jpg)$/,
         use: [
           {
-            loader: 'file-loader',
+            'loader': 'file-loader',
             options: {
               name: 'assets/[hash].[ext]'
             }
@@ -52,9 +53,7 @@ module.exports = {
     ]
   },
   devServer: {
-    
     historyApiFallback: true,
-
   },
   plugins: [
     new HtmlWebPackPlugin({
@@ -63,6 +62,6 @@ module.exports = {
     }),
     new MiniCssExtractPlugin({
       filename: 'assets/[name].css'
-    })
+    }),
   ]
 };

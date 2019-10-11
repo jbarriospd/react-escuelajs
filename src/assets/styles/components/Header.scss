@@ -9,13 +9,17 @@
   width: 100%;
 }
 
+.isLogin, .isRegister {
+  background-color: #21c08b;
+}
+
 .header__img {
   margin-left: 30px;
   width: 200px;
 }
 
 .header__menu {
-  margin-right: 30px;
+	margin-right: 30px;
 }
 
 .header__menu ul {
@@ -28,9 +32,8 @@
   text-align: right;
 }
 
-.header__menu:hover ul,
-ul:hover {
-  display: block;
+.header__menu:hover ul, ul:hover {
+	display: block;
 }
 
 .header__menu li {
@@ -55,4 +58,6 @@ ul:hover {
 .header__menu--profile img {
   margin-right: 8px;
   width: 40px;
+  border-radius: 100%;
+  object-fit: cover;
 }
