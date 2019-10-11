@@ -271,4 +271,37 @@ https://codepen.io/ohansemmanuel/pen/QgxEqz
 https://codepen.io/assimilate/pen/aVKpYp/
 https://codepen.io/CodeFrogShow/pen/LLgBoE
 
-¡CSS GRID , excelente articulo!; https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
+¡CSS GRID , excelente articulo!; 
+https://medium.com/flexbox-and-grids/how-to-efficiently-master-the-css-grid-in-a-jiffy-585d0c213577
+https://tobiasahlin.com/blog/common-flexbox-patterns/
+
+### Thinking in react hooks 
+https://wattenberger.com/blog/react-hooks
+
+
+css grid layout de spotify:
+
+https://codepen.io/sheelah/pen/qYPwBK
+https://codepen.io/cesalberca/pen/ZvbzvE
+
+artist page:https://codepen.io/alowenthal/pen/rxboRv
+
+
+
+http://preview.themeforest.net/item/bepop-nonstop-music-wordpress-theme/full_screen_preview/24075935?clickid=2890vcyeJxyJTFawUx0Mo3Y3Ukn2Da0u%3AxbNQU0&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1=&ref=cirvitis&utm_campaign=af_impact_radius_369282&utm_medium=affiliate&utm_source=impact_radius
+
+
+
+https://preview.themeforest.net/item/zondimo-angular-music-app/full_screen_preview/21145292?clickid=2890vcyeJxyJTFawUx0Mo3Y3Ukn2Da0W%3AxbNQU0&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=369282&mp_value1=&ref=cirvitis&utm_campaign=af_impact_radius_369282&utm_medium=affiliate&utm_source=impact_radius
+
+
+http://nulledfree.club/bepop-non-stop-music-template/
+
+font-family: BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+
+Menu depleglabe:
+
+https://codepen.io/jorgecardoso/embed/oBQyZZ?height=465&theme-id=0&slug-hash=oBQyZZ&default-tab=css%2Cresult&embed-version=2&user=jorgecardoso
+
